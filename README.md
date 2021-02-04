@@ -1,1 +1,1 @@
-# Memoria-Dinamica-2
+#Orga-y-dise-o-de-computadoras
